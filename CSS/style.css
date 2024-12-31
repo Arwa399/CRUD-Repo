@@ -1,0 +1,55 @@
+.custom-margin{
+    margin-top: 10%;
+}
+.icon-cell i {
+    margin: 0 10px;
+}
+.table {
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+.table th {
+    text-align: center; 
+    font-weight: bold; 
+}
+
+.table tbody tr:hover {
+    background-color: #f8f9fa; 
+}
+
+.table td {
+    vertical-align: middle; 
+    text-align: center; 
+}
+
+.right-box
+{
+    width: 50%;
+    height: 100%; 
+}
+.right-box i
+{
+    font-size: 18px;
+    color: black;
+    padding: 14px;
+    position: absolute;
+}
+.right-box input
+{
+    width: 60%;
+    padding: 13px;
+    padding-left: 40px;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid black;
+    font-family: verdana;
+    cursor: pointer;
+}
+.EditIcon:hover,
+.DeleteIcon:hover {
+    color: #007bff; 
+    cursor: pointer; 
+}
+
+    
+
